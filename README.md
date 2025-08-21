@@ -1,7 +1,3 @@
-Here is the full translation of your GitHub profile `README.md` from Brazilian Portuguese to American English, following your instructions:
-
----
-
 # Hello, I'm Rafael Lopes!
 
 <a href="https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/?locale=pt_BR">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)</a> <a href="https://twitter.com/RafaelL77859907">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)</a> <a href="https://www.instagram.com/rafaellopes.dev/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)</a>
@@ -60,7 +56,3 @@ Welcome to my GitHub and feel free to get in touch through social media or email
 <a href="https://github.com/rafix923">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafix923&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
-
----
-
-Let me know if you’d like this translation in `.md` format or have any changes in mind!
