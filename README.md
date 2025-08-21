@@ -38,11 +38,10 @@ Welcome to my GitHub and feel free to get in touch through social media or email
 ### Some Facts and Fun Things About Me
 
 * I'm Rodolpho’s dad
-* I can read sheet music, I play the guitar, and in my free time I teach myself keyboard
-* I enjoy racing games and truck simulators
-* I'm passionate about technology and the internet
+* I can read sheet music and play the acoustic guitar.
+* In my free time, when I’m not studying, I love playing games and watching series with my wife.
 * I love reading books, and the first one I read was at age 16: *"O Mistério do Cinco Estrelas"* by Marcos Rey.
-  Since then, reading has been part of my daily routine
+  Since then, reading has been part of my daily routine. If you like to read, take a look at my profile in <a href="https://www.goodreads.com/user/show/81398089-rafael">goodreads.com</a>.
 
 #### Have you read a book that changed your mindset? Do you have a project in mind that you'd like to develop collaboratively?
 
