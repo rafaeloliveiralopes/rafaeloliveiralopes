@@ -5,10 +5,11 @@ https://github.com/user-attachments/assets/26310af7-bd3f-4006-a075-11477b5112f9
 
 ## 🧭 About Me
 
-* 🎯 **Full-Stack** developer focused on web applications.
-* 🧠 Interested in **Machine Learning** and **Artificial Intelligence**.
-* 📚 Currently studying **Software Engineering** at Centro Universitário Anhanguera Pitágoras.
-* 🎶 Passionate about music, reading, and technology.
+🎯 Full-Stack developer focused on web applications.
+🧠 Interested in Machine Learning and Artificial Intelligence.
+📚 Currently studying Software Engineering at Centro Universitário Anhanguera Pitágoras.
+🤝 Currently working as a volunteer developer for the Associação Quilombola João Borges Vieira.
+🎶 Passionate about music, reading, and technology.
 
 ---
 
