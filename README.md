@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/26310af7-bd3f-4006-a075-11477b5112f9
 
-
+![visitors](https://vbr.nathanchung.dev/badge?page_id=rafaeloliveiralopes.rafaeloliveiralopes&color=00cf00)
 ---
 
 ## 🧭 About Me
@@ -74,24 +74,30 @@ https://github.com/user-attachments/assets/26310af7-bd3f-4006-a075-11477b5112f9
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveiralopes&layout=compact&theme=graywhite&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  ![visitors](https://vbr.nathanchung.dev/badge?page_id=rafaeloliveiralopes.rafaeloliveiralopes&color=00cf00)
-</p>
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://rafaellopes.dev">🌍 Personal Website</a> • 
-  <a href="https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/">LinkedIn</a> • 
-  <a href="https://twitter.com/RafaelL77859907">Twitter</a> • 
-  <a href="https://www.instagram.com/rafaellopes.dev/">Instagram</a>
+  <a href="https://rafaellopes.dev">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/RafaelL77859907">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/rafaellopes.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
+
 
 ---
 
 <p align="center">
-  <em>𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:</em> `2025-08-22` <!-- TODO: automate this -->
+  <em>𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:</em> 2025-08-22 <!-- TODO: automate this -->
 </p>
 
