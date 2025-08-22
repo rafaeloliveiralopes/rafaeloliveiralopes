@@ -57,12 +57,12 @@ https://github.com/user-attachments/assets/26310af7-bd3f-4006-a075-11477b5112f9
 
 | Project                        | Description                                      | Stack                | Link                                                                            |
 | ------------------------------ | ------------------------------------------------ | -------------------- | ------------------------------------------------------------------------------- |
-| 🌐 **Studio Karebeleza**       | Landing Page for a beauty salon                  | React · TailwindCSS  | [🔗 Repository](https://github.com/rafaeloliveiralopes/studio-karebeleza)       |
-| 🧩 **LabenuSystem**            | Backend project developed in the Labenu bootcamp | TypeScript · Node.js | [🔗 Repository](https://github.com/rafaeloliveiralopes/LabenuSystem)            |
-| 🎬 **Case Promobit**           | Front-end technical challenge                    | React · REST API     | [🔗 Repository](https://github.com/rafaeloliveiralopes/case-promobit)           |
-| 🧠 **Neural Network Training** | Neural network training with Transfer Learning   | Python · TensorFlow  | [🔗 Repository](https://github.com/rafaeloliveiralopes/Neural-Network-Training) |
-| 🤖 **Recognition Face System** | Facial recognition system                        | Python · OpenCV      | [🔗 Repository](https://github.com/rafaeloliveiralopes/recognition-face-system) |
-| 📊 **Simulador Robo**          | 2D object-oriented robot simulator (Java)        | Java · OOP           | [🔗 Repository](https://github.com/rafaeloliveiralopes/SimuladorRobo)           |
+|**Studio Karebeleza**       | Landing Page for a beauty salon                  | React · TailwindCSS  | [🔗 Repository](https://github.com/rafaeloliveiralopes/studio-karebeleza)       |
+|**LabenuSystem**            | Backend project developed in the Labenu bootcamp | TypeScript · Node.js | [🔗 Repository](https://github.com/rafaeloliveiralopes/LabenuSystem)            |
+|**Case Promobit**           | Front-end technical challenge                    | React · REST API     | [🔗 Repository](https://github.com/rafaeloliveiralopes/case-promobit)           |
+|**Neural Network Training** | Neural network training with Transfer Learning   | Python · TensorFlow  | [🔗 Repository](https://github.com/rafaeloliveiralopes/Neural-Network-Training) |
+|**Recognition Face System** | Facial recognition system                        | Python · OpenCV      | [🔗 Repository](https://github.com/rafaeloliveiralopes/recognition-face-system) |
+|**Simulador Robo**          | 2D object-oriented robot simulator (Java)        | Java · OOP           | [🔗 Repository](https://github.com/rafaeloliveiralopes/SimuladorRobo)           |
 
 ---
 
