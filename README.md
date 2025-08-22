@@ -1,57 +1,97 @@
-# Hello, I'm Rafael Lopes!
+https://github.com/user-attachments/assets/26310af7-bd3f-4006-a075-11477b5112f9
 
-<a href="https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/?locale=pt_BR">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)</a> <a href="https://twitter.com/RafaelL77859907">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)</a> <a href="https://www.instagram.com/rafaellopes.dev/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)</a>
 
-My first contact with web development was in 2018, using WordPress to write a blog about music studies. At that time, I was amazed and kept wondering how WordPress templates and web pages were developed entirely from scratch.
+---
 
-In December 2021, I decided to dedicate myself 100% to my career transition to become a full-stack developer, and I’m happy with my decision because I love learning and developing new skills. Watching each project take shape is sensational. It feels like having superpowers! 💪
+## 🧭 About Me
 
-I'm currently pursuing a Bachelor's degree in Software Engineering and expanding my knowledge in AI and Machine Learning.
+* 🎯 **Full-Stack** developer focused on web applications.
+* 🧠 Interested in **Machine Learning** and **Artificial Intelligence**.
+* 📚 Currently studying **Software Engineering** at Centro Universitário Anhanguera Pitágoras.
+* 🎶 Passionate about music, reading, and technology.
 
-Welcome to my GitHub and feel free to get in touch through social media or email if you'd like!
+---
 
-### Languages and Frameworks I Use for Machine Learning
+## 🛠️ Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge\&logo=seaborn\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge\&logo=scipy\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+### 🎨 Frontend
 
-### Stack and Tools I Use for Web Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![+ NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=Postman\&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white)
+### ⚙️ Backend
 
-### Some Facts and Fun Things About Me
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-* I'm Rodolpho’s dad
-* I can read sheet music and play the acoustic guitar.
-* In my free time, when I’m not studying, I love playing games and watching series with my wife.
-* I love reading books, and the first one I read was at age 16: *"O Mistério do Cinco Estrelas"* by Marcos Rey.
-  Since then, reading has been part of my daily routine. If you enjoy reading, check out my profile on <a href="https://www.goodreads.com/user/show/81398089-rafael">goodreads.com</a>.
+### 🗄️ Database
 
-#### Have you read a book that changed your mindset? Do you have a project in mind that you'd like to develop collaboratively?
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-📫 Feel free to contact me on LinkedIn or send an email to: [rafaellopes.dev@gmail.com](mailto:rafaellopes.dev@gmail.com)
+### 📊 Data Science & Machine Learning
 
-<a href="https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/?locale=pt_BR">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)</a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
 
-## Stats
+---
 
-<div>
-<a href="https://github.com/rafix923">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafix923&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</div>
+## 🚀 Featured Projects
+
+| Project                        | Description                                      | Stack                | Link                                                                            |
+| ------------------------------ | ------------------------------------------------ | -------------------- | ------------------------------------------------------------------------------- |
+| 🌐 **Studio Karebeleza**       | Landing Page for a beauty salon                  | React · TailwindCSS  | [🔗 Repository](https://github.com/rafaeloliveiralopes/studio-karebeleza)       |
+| 🧩 **LabenuSystem**            | Backend project developed in the Labenu bootcamp | TypeScript · Node.js | [🔗 Repository](https://github.com/rafaeloliveiralopes/LabenuSystem)            |
+| 🎬 **Case Promobit**           | Front-end technical challenge                    | React · REST API     | [🔗 Repository](https://github.com/rafaeloliveiralopes/case-promobit)           |
+| 🧠 **Neural Network Training** | Neural network training with Transfer Learning   | Python · TensorFlow  | [🔗 Repository](https://github.com/rafaeloliveiralopes/Neural-Network-Training) |
+| 🤖 **Recognition Face System** | Facial recognition system                        | Python · OpenCV      | [🔗 Repository](https://github.com/rafaeloliveiralopes/recognition-face-system) |
+| 📊 **Simulador Robo**          | 2D object-oriented robot simulator (Java)        | Java · OOP           | [🔗 Repository](https://github.com/rafaeloliveiralopes/SimuladorRobo)           |
+
+---
+
+## 📈 Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaeloliveiralopes&show_icons=true&theme=graywhite&hide_border=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaeloliveiralopes&theme=graywhite&hide_border=true" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveiralopes&layout=compact&theme=graywhite&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  ![visitors](https://vbr.nathanchung.dev/badge?page_id=rafaeloliveiralopes.rafaeloliveiralopes&color=00cf00)
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://rafaellopes.dev">🌍 Personal Website</a> • 
+  <a href="https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/">LinkedIn</a> • 
+  <a href="https://twitter.com/RafaelL77859907">Twitter</a> • 
+  <a href="https://www.instagram.com/rafaellopes.dev/">Instagram</a>
+</p>
+
+---
+
+<p align="center">
+  <em>𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:</em> `2025-08-22` <!-- TODO: automate this -->
+</p>
+
