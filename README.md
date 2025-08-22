@@ -1,6 +1,7 @@
 https://github.com/user-attachments/assets/26310af7-bd3f-4006-a075-11477b5112f9
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=rafaeloliveiralopes.rafaeloliveiralopes&color=00cf00)
+
 ---
 
 ## 🧭 About Me
